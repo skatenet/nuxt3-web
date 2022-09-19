@@ -12,6 +12,7 @@
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3",
     "nuxt": "3.0.0-rc.10",
+    "nuxt-windicss": "^2.5.2",
     "prettier": "2.7.1"
   },
   "lint-staged": {
