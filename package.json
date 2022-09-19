@@ -14,10 +14,10 @@
     "nuxt": "3.0.0-rc.10",
     "prettier": "2.7.1"
   },
-  "dependencies": {
-    "@pinia/nuxt": "^0.4.2"
-  },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "@oruga-ui/oruga-next": "^0.5.6"
   }
 }
